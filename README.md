@@ -51,6 +51,6 @@ You can view the visualization here: [Interactive Dashboard for Evaluating Aircr
 This project delivers a comprehensive risk analysis to support the company’s aviation expansion strategy. It will provide crucial insights into aircraft safety, allowing for well-informed decision-making about which aircraft models to invest in.
 
 ## Contact Information
-- *Author*: Caren Kyalo
-- *Email*: caren.kkyalo@gmail.com
+- *Author*: Aurel Ochieng
+- *Email*: aurelephie4@gmail.com
   
